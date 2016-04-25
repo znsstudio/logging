@@ -1,4 +1,4 @@
-<?php namespace Weaverryan;
+<?php namespace Znsstudio;
 
 class Logging
 {
