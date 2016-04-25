@@ -4,11 +4,11 @@
     "type": "php",
     "authors": [
         {
-            "name": "Administrator",
+            "name": "Zns Studio",
             "email": "info@znsstudio.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {
         "php": ">=5.5.0"
     },
