@@ -8,7 +8,6 @@
             "email": "info@znsstudio.com"
         }
     ],
-    "minimum-stability": "master",
     "require": {
         "php": ">=5.5.0"
     },
