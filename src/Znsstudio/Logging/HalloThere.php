@@ -1,6 +1,8 @@
-<?php namespace Znsstudio;
+<?php 
 
-class Logging
+namespace Znsstudio\Logging;
+
+class HalloThere
 {
     public static function sayHallo()
     {
